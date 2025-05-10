@@ -3,7 +3,7 @@ import altair as alt
 import streamlit as st
 import numpy as np
 # import needed libaries
-
+# for Okafor Chisom project
 def load_data():
     #import data
     df = pd.read_csv("aircrahesFullDataUpdated_2024.csv")
